@@ -17,7 +17,7 @@ Each application component runs in its own isolated container while communicatin
 # 🏗️ Architecture
 
 <p align="center">
-<img src="architecture.ipg" width="1000">
+<img src="architecture.jpg" width="1000">
 </p>
 
 ---
